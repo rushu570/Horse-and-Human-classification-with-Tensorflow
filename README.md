@@ -1,2 +1,2 @@
 # Horse-and-Human-classification-with-Tensorflow
-A project using Tensorflow in python for classifying Horse and Human
+A project using Tensorflow with python for classifying Horse and Human
