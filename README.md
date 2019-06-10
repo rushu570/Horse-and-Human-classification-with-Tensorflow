@@ -3,8 +3,8 @@
 •	Step 2:Import tensorflow.             
 •	Step 3: Adding convolutions                                                              
 •	Step 4: Using optimizers and loss function		                                                                                            
-•	Step 5: Data preprocessing
-•	Step 6: Training
+•	Step 5: Data preprocessing                                                                                                                
+•	Step 6: Training                                                                                                                          
 •	Step 7:Running the model
 # For Convolutions and pooling these are refernce links prefer them to have a better understanding.        
 1.	https://www.tensorflow.org/versions/r1.8/api_docs/python/tf/keras/layers/Conv2D
