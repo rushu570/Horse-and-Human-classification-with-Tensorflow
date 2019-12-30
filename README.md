@@ -14,6 +14,6 @@
 5.	https://keras.io/optimizers/ for information about optimizers.
 # check out the playlist at 
 https://bit.ly/2UGa7uH. For more information on convolutions
-# You can check out keras and Tensorflow documentation for more information.
-# For getting complete understanding you can take Specialization course Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning! on coursera.
+## You can check out keras and Tensorflow documentation for more information.
+## For getting complete understanding you can take Specialization course Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning! on coursera.
 https://www.coursera.org/learn/introduction-tensorflow?
